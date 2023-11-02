@@ -1,0 +1,90 @@
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe.config
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.pdb
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.SuggestedBindingRedirects.cache
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.Properties.Resources.resources
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.exe
+C:\Users\claud\Desktop\Proiect BD  v.1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csprojAssemblyReference.cache
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.Properties.Resources.resources
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.exe
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe.config
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Text.Json.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Memory.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.ValueTuple.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Numerics.Vectors.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Buffers.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll.config
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Text.Json.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Memory.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.ValueTuple.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Numerics.Vectors.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Buffers.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.exe.config
+D:\Proiect DataBasev1.1\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe.config
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.dll
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll.config
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.SuggestedBindingRedirects.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.Properties.Resources.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.exe
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.StudentiForm.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.MeniuForm.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ProfesoriForm.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ActivitatiForm.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ParticipareForm.resources
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.CoordonatoriForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe.config
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.exe
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Proiect DataBase.pdb
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.dll
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Oracle.DataAccess.dll
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\Librarie Modele.pdb
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.pdb
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\bin\Debug\NivelAccesDate.dll.config
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ActivitatiForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.CoordonatoriForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ParticipareForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.ProfesoriForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.StudentiForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.MeniuForm.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect_DataBase.Properties.Resources.resources
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\InterfataUtilizator.csproj.CopyComplete
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.exe
+E:\Proiect DataBase Bun\Proiect DataBase\Proiect DataBase\obj\Debug\Proiect DataBase.pdb

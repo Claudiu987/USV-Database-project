@@ -1,0 +1,12 @@
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\bin\Debug\Librarie Modele.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\bin\Debug\Librarie Modele.pdb
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\obj\Debug\Librarie Modele.dll
+D:\Proiect DataBasev1.1\Proiect DataBase\Librarie Modele\obj\Debug\Librarie Modele.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\bin\Debug\Librarie Modele.dll
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\bin\Debug\Librarie Modele.pdb
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\obj\Debug\Librarie Modele.dll
+C:\Users\claud\Desktop\Baze de date\Proiect DataBase\Librarie Modele\obj\Debug\Librarie Modele.pdb
